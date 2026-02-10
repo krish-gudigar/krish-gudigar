@@ -1,4 +1,4 @@
-# Hi, I'm Krish Gudigar
+# Hi, I'm Krish Gudigar 
 
 ## AI & Machine Learning Student | Research-Oriented | Model Builder
 
@@ -23,7 +23,7 @@ Intermediate — confident in core ML concepts and end-to-end workflows
 
 ---
 
-## 🎯 Current Goal
+## Current Goal
 
 Seeking opportunities as an **AI/ML Intern** where I can:
 
