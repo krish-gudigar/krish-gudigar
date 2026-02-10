@@ -1,4 +1,4 @@
-# Hi, I'm Krish Gudigar https://tenor.com/view/grrr-rawr-gif-16161260235683800785
+# Hi, I'm Krish Gudigar 
 
 ## AI & Machine Learning Student | Research-Oriented | Model Builder
 
